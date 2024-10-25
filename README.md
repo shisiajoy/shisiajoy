@@ -1,7 +1,11 @@
 ## Hi there 👋
 
 
- A passionate data scientist with a background in health records and information management. Currently focused on leveraging machine learning and data analysis to tackle real-world problems, particularly in the healthcare sector. 
+I am a passionate data scientist with a background in health records and information management. Currently focused on leveraging machine learning and data analysis to tackle real-world problems, particularly in the healthcare sector. 
+
+Currently expanding my knowledge in deep learning and healthcare technologies.
+
+Open to collaboration opportunities in data science, machine learning and healthcare.
 <!--
 **Shisiajoy/shisiajoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
