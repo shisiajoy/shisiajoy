@@ -1,7 +1,7 @@
 ## 
 
 
-A Data scientist by trade, healthcare nerd by heart.   :)
+A Data scientist by trade, healthcare nerd by heart. 
 
 
 <!--
