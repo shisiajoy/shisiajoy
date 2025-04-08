@@ -1,7 +1,8 @@
-## Hi :)
+## 
 
 
-A Data scientist by trade, healthcare nerd by heart.
+A Data scientist by trade, healthcare nerd by heart.   :)
+
 
 <!--
 **Shisiajoy/shisiajoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
